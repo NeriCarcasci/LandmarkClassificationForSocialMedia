@@ -1,4 +1,4 @@
-# Landmark Classification For SocialMedia
+# Landmark Classification For Social Media
 Using pythorch to create  2 solutions to the Landmark Classification problem in Udacity Deep learning course. 
 
 The first solution has a hand defined model in PyTorch, the requirements for passing this project was 50%+ accuracy on this model.
